@@ -229,8 +229,6 @@ body {
     padding: 10px;
 
     overflow-y: scroll;
-
-    /* background: #cdcdcd; */
 }
 
 .sidepanel_book {
@@ -307,8 +305,6 @@ body {
 .search_input:hover~.search_icon img {
     visibility: visible;
 }
-
-.tabcontainer {}
 
 .tabheader_items {
     display: -webkit-box;
@@ -550,8 +546,6 @@ body {
 
 /* media */
 
-
-
 @media (max-width: 1400px) {
     html {
         font-size: 15px;
@@ -608,8 +602,6 @@ body {
         padding: 0.625rem;
 
         overflow-y: scroll;
-
-        /* background: #cdcdcd; */
     }
 }
 
